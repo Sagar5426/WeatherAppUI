@@ -11,6 +11,7 @@
 		4523526C2BEA393300EE759C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4523526B2BEA393300EE759C /* ContentView.swift */; };
 		4523526E2BEA393500EE759C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4523526D2BEA393500EE759C /* Assets.xcassets */; };
 		452352712BEA393500EE759C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 452352702BEA393500EE759C /* Preview Assets.xcassets */; };
+		4557E9492BEB73D800157D5A /* weatherButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4557E9482BEB73D800157D5A /* weatherButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		4523526B2BEA393300EE759C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		4523526D2BEA393500EE759C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		452352702BEA393500EE759C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		4557E9482BEB73D800157D5A /* weatherButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = weatherButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 				452352692BEA393300EE759C /* SwiftUI_WeatherAppApp.swift */,
 				4523526B2BEA393300EE759C /* ContentView.swift */,
 				4523526D2BEA393500EE759C /* Assets.xcassets */,
+				4557E9482BEB73D800157D5A /* weatherButton.swift */,
 				4523526F2BEA393500EE759C /* Preview Content */,
 			);
 			path = "SwiftUI-WeatherApp";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4557E9492BEB73D800157D5A /* weatherButton.swift in Sources */,
 				4523526C2BEA393300EE759C /* ContentView.swift in Sources */,
 				4523526A2BEA393300EE759C /* SwiftUI_WeatherAppApp.swift in Sources */,
 			);
